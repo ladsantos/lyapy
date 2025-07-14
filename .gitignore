@@ -6,3 +6,4 @@
 .ipynb_checkpoints/
 .*.swp
 .idea
+.DS_Store
